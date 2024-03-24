@@ -96,10 +96,15 @@ We ground our simulation in the Anderson localization model, which highlights ho
 
 Python Code for Simulation
 # Import necessary libraries
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import scipy.sparse as sp
+
 import scipy.sparse.linalg
+
 from scipy.linalg import expm
 
 class System:
