@@ -1,5 +1,7 @@
 A Nested Wave Model for Quantum Non-locality: Reconciling with Special Relativity
+
 By Sidney H Belzberg and Alicia Belzberg, Marc Rendell,Eleftherios Gkioulekas
+
 Abstract
 We propose a nested wave model to address this nonlocal behavior without abandoning the fundamental principles of relativity. Our model introduces a hidden wave structure (Wave 2) interacting with conventional wavefunctions (Wave 1). As entangled particles separate by significant distances, new nested wave structures emerge within Wave 2 to mediate seemingly non-local entanglement effects. Importantly, quantum decoherence, increasing with distance, could disrupt the coherence of the Wave 2 structures. Decoherence introduces increasing "noise" into the Wave 2 system, potentially causing a delay as the entanglement signal must overcome this disruption over increasing distances. Rather than hindering entanglement, this disruption offers a potential mechanism for explaining a minuscule delay in the observed non-locality..
 
