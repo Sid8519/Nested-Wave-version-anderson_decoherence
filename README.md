@@ -57,8 +57,8 @@ The potential observation of a delay in entangled photon correlations due to dec
 Furthermore, validating our nested wave model would represent a significant shift in the underlying philosophy of quantum mechanics, supporting a deterministic and realistic view of reality and challenging the probabilistic and observer-dependent aspects of the standard model.
 By building upon the foundations laid by the work of Bell, Zeh, Zurek, Joos, and others, and seeking to further explore the non-local nature of quantum entanglement, our nested wave model aims to contribute to the ongoing scientific discourse in the field and advance our understanding of these fundamental questions in quantum mechanics and the nature of reality.
 
-Computational Simulation of Nested Wave Structures Under Decoherence
-Background and Governing Equation
+Computational Simulation of Nested Wave Structures Under Decoherence Background and Governing Equation
+
 Anderson localization describes a quantum mechanical phenomenon where disorder within a system prevents the diffusion of particle wave functions, causing them to become spatially localized. This principle is instrumental in our simulation efforts to explore the impact of quantum decoherence on nested wave structures, as described in the nested wave hypothesis by Sidney H. Belzberg and co-authors.
 
 Computational Model and Framework
