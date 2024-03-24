@@ -20,6 +20,7 @@ We propose a lab-scale experiment to test this model. Entangled photons will be 
 
 
 Introduction:
+
 Quantum entanglement, the mysterious correlation between distant particles, has been a subject of intense research and debate since its discovery. The standard model of quantum mechanics, based on the concept of superposition, describes entanglement as an instantaneous, unmediated connection between particles, leading to the paradoxical concept of "spooky action at a distance." However, recent experimental evidence from the Micius satellite experiment challenges this view and supports the idea of a communication mechanism between entangled particles that can be disrupted by environmental factors. This evidence aligns more closely with a pilot wave interpretation of quantum mechanics, which offers a deterministic and realistic description of quantum phenomena.
 
 The Micius satellite experiment (Yin et al., 2017) demonstrated quantum entanglement distribution over a distance of 1,200 kilometers. The experiment revealed the impact of atmospheric turbulence on the entangled photons, suggesting the presence of a communication mechanism between the particles that can be disrupted by external factors. This observation challenges the standard model's assumption of instantaneous, unmediated communication and supports the idea of a physical mechanism underlying entanglement, akin to the pilot wave interpretation.
@@ -59,7 +60,7 @@ By building upon the foundations laid by the work of Bell, Zeh, Zurek, Joos, and
 
 Computational Simulation of Nested Wave Structures Under Decoherence Background and Governing Equation
 
-Anderson localization describes a quantum mechanical phenomenon where disorder within a system prevents the diffusion of particle wave functions, causing them to become spatially localized. This principle is instrumental in our simulation efforts to explore the impact of quantum decoherence on nested wave structures, as described in the nested wave hypothesis by Sidney H. Belzberg and co-authors.
+Anderson localization describes a quantum mechanical phenomenon where disorder within a system prevents the diffusion of particle wave functions, causing them to become spatially localized. This principle is instrumental in our simulation efforts to explore the impact of quantum decoherence on nested wave structures, as described in the nested wave hypothesis.
 
 Computational Model and Framework
 
