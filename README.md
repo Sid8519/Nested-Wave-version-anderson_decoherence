@@ -143,3 +143,7 @@ class System:
         return gamma
 
     # Example usage and visualization methods omitted
+
+
+This code framework lays the groundwork for our simulation, modeling the non-unitary evolution of an Anderson localized system under decoherence. 
+Through the modified Trotter decomposition function, we introduce environmental interactions, capturing the gradual impact of decoherence on quantum states.
